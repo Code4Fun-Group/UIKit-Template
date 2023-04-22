@@ -1,9 +1,9 @@
 [submodule "Modules/Common"]
 	path = Modules/Common
-	url = http://git.techvify.com.vn/internal/poc/iOS/Common.git
+	url = http://AUTHEN_SUBMODULE@github.com/Code4Fun-Group/Common.git
 [submodule "Modules/CommonUI"]
 	path = Modules/CommonUI
-	url = http://git.techvify.com.vn/internal/poc/iOS/CommonUI.git
+	url = http://AUTHEN_SUBMODULE@github.com/Code4Fun-Group/CommonUI.git
 [submodule "Modules/Networking"]
 	path = Modules/Networking
-	url = http://git.techvify.com.vn/internal/poc/iOS/Networking.git
+	url = http://AUTHEN_SUBMODULE@github.com/Code4Fun-Group/Networking.git
