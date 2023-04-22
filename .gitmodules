@@ -1,9 +1,9 @@
 [submodule "Modules/Common"]
 	path = Modules/Common
-	url = http://AUTHEN_SUBMODULE@github.com/Code4Fun-Group/Common.git
+	url = http://github.com/Code4Fun-Group/Common.git
 [submodule "Modules/CommonUI"]
 	path = Modules/CommonUI
-	url = http://AUTHEN_SUBMODULE@github.com/Code4Fun-Group/CommonUI.git
+	url = http://github.com/Code4Fun-Group/CommonUI.git
 [submodule "Modules/Networking"]
 	path = Modules/Networking
-	url = http://AUTHEN_SUBMODULE@github.com/Code4Fun-Group/Networking.git
+	url = http://github.com/Code4Fun-Group/Networking.git
