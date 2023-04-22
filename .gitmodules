@@ -1,0 +1,9 @@
+[submodule "Modules/Common"]
+	path = Modules/Common
+	url = http://git.techvify.com.vn/internal/poc/iOS/Common.git
+[submodule "Modules/CommonUI"]
+	path = Modules/CommonUI
+	url = http://git.techvify.com.vn/internal/poc/iOS/CommonUI.git
+[submodule "Modules/Networking"]
+	path = Modules/Networking
+	url = http://git.techvify.com.vn/internal/poc/iOS/Networking.git
