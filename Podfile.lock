@@ -1,8 +1,8 @@
 PODS:
   - Alamofire (5.6.2)
-  - Common (1.0):
+  - Common (1.0.0):
     - KeychainAccess
-  - CommonUI (1.0):
+  - CommonUI (1.0.0):
     - Common
     - FloatingPanel
     - IQKeyboardManagerSwift
@@ -12,7 +12,7 @@ PODS:
   - KeychainAccess (4.2.2)
   - Kingfisher (7.3.2)
   - netfox (1.21.0)
-  - Networking (1.0):
+  - Networking (1.0.0):
     - Alamofire
     - Common
   - OHHTTPStubs (9.1.0):
@@ -62,14 +62,14 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
-  Common: c125a01786505512c5120d7b3d052d03019fe19f
-  CommonUI: c05ddcd587aea8e1ffe4bc63ac0afd9ec286be81
+  Common: 8af6da8c36577f3320b452ae112eb91e7ea9a0e0
+  CommonUI: ebd1a95d4a915f160756566fdfb36cfb96664162
   FloatingPanel: 3cee815e9ded75b632543fa73ab655a1ef941452
   IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
   KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
   Kingfisher: 0086ad83719761ba9b2cdaf6ef4d5b4878cbae23
   netfox: 9d5cc727fe7576c4c7688a2504618a156b7d44b7
-  Networking: cdf0b41c844811e3c76cc443ceeec54839492ee8
+  Networking: 4d541e90ba9e315664b96213a761776638aa8209
   OHHTTPStubs: 90eac6d8f2c18317baeca36698523dc67c513831
   SwiftLint: 284cea64b6187c5d6bd83e9a548a64104d546447
 
