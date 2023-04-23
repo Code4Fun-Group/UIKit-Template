@@ -1,6 +1,3 @@
-[submodule "Modules/Common"]
-	path = Modules/Common
-	url = https://github.com/Code4Fun-Group/Common.git
 [submodule "Modules/CommonUI"]
 	path = Modules/CommonUI
 	url = https://github.com/Code4Fun-Group/CommonUI.git
