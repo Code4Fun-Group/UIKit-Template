@@ -4,3 +4,6 @@
 [submodule "Modules/Networking"]
 	path = Modules/Networking
 	url = https://github.com/Code4Fun-Group/Networking.git
+[submodule "Modules/Common"]
+	path = Modules/Common
+	url = https://github.com/Code4Fun-Group/Common.git
