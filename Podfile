@@ -3,7 +3,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 ##################
 # App
 ##################
-workspace 'POC'
+workspace 'UIKitTemplate'
 platform :ios, '13.0'
 
 ##################
@@ -43,20 +43,13 @@ end
 ##################
 # Targets
 ##################
-target 'POC' do
+target 'UIKitTemplate' do
 	use_frameworks!
-  # Pods for POC
+  # Pods for UIKitTemplate
   shared
   analytics
   utilities
   xctools
-	
-	target 'POCTests' do
-	 inherit! :search_paths
-	 # Pods for testing
-	 pod 'OHHTTPStubs'
-	 pod 'OHHTTPStubs/Swift'
-	end
 end
 
 post_install do |installer|

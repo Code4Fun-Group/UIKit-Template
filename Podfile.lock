@@ -15,21 +15,6 @@ PODS:
   - Networking (1.0.0):
     - Alamofire
     - Common
-  - OHHTTPStubs (9.1.0):
-    - OHHTTPStubs/Default (= 9.1.0)
-  - OHHTTPStubs/Core (9.1.0)
-  - OHHTTPStubs/Default (9.1.0):
-    - OHHTTPStubs/Core
-    - OHHTTPStubs/JSON
-    - OHHTTPStubs/NSURLSession
-    - OHHTTPStubs/OHPathHelpers
-  - OHHTTPStubs/JSON (9.1.0):
-    - OHHTTPStubs/Core
-  - OHHTTPStubs/NSURLSession (9.1.0):
-    - OHHTTPStubs/Core
-  - OHHTTPStubs/OHPathHelpers (9.1.0)
-  - OHHTTPStubs/Swift (9.1.0):
-    - OHHTTPStubs/Default
   - SwiftLint (0.51.0)
 
 DEPENDENCIES:
@@ -37,8 +22,6 @@ DEPENDENCIES:
   - CommonUI (from `./Modules/CommonUI`)
   - netfox
   - Networking (from `./Modules/Networking`)
-  - OHHTTPStubs
-  - OHHTTPStubs/Swift
   - SwiftLint
 
 SPEC REPOS:
@@ -49,7 +32,6 @@ SPEC REPOS:
     - KeychainAccess
     - Kingfisher
     - netfox
-    - OHHTTPStubs
     - SwiftLint
 
 EXTERNAL SOURCES:
@@ -70,9 +52,8 @@ SPEC CHECKSUMS:
   Kingfisher: 6c5449c6450c5239166510ba04afe374a98afc4f
   netfox: 9d5cc727fe7576c4c7688a2504618a156b7d44b7
   Networking: 1d0905959d4a5cef5b43b2b7151ba454757b274a
-  OHHTTPStubs: 90eac6d8f2c18317baeca36698523dc67c513831
   SwiftLint: 1b7561918a19e23bfed960e40759086e70f4dba5
 
-PODFILE CHECKSUM: e5df5756b1bbfd6cddbbe8a2ef57153ef95eb5cf
+PODFILE CHECKSUM: 81128c34ff2adfa280ec4df88a1855cc816e8777
 
 COCOAPODS: 1.12.1
