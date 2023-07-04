@@ -20,8 +20,6 @@ pipeline {
 				sh """
 				git submodule foreach git checkout .
 				git submodule update --init --recursive
-				git submodule foreach pod install
-				pod install
 				"""
 			}
 		}
@@ -33,6 +31,8 @@ pipeline {
 				export APP_NAME='$APP_NAME'
 				bundle install
 				bundle exec fastlane run cocoapods
+				git submodule foreach pod install
+				pod install
 				"""
 			}
 		}
